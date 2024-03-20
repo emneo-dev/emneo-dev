@@ -3,8 +3,7 @@ name: Waka Readme
 on:
   workflow_dispatch:
   schedule:
-    # runs at 12 AM UTC (5:30 AM IST)
-    - cron: "0 0 * * *"
+    - cron: "0 * * * *"
 
 jobs:
   update-readme:
@@ -19,12 +18,13 @@ jobs:
           SECTION_NAME: wakatime
           BLOCKS: ->
           CODE_LANG: rust
-          TIME_RANGE: all_time
-          LANG_COUNT: 10
+          TIME_RANGE: last_year
+          LANG_COUNT: 15
           SHOW_TIME: true
           SHOW_TOTAL: true
           SHOW_MASKED_TIME: false
           STOP_AT_OTHER: false
+          IGNORED_LANGUAGES: other browsing
           ### commit
           COMMIT_MESSAGE: Update waka-readme graph with new metrics
           TARGET_BRANCH: master
