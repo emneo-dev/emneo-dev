@@ -31,5 +31,3 @@ jobs:
           TARGET_PATH: README.md
           COMMITTER_NAME: GitHubActionBot
           COMMITTER_EMAIL: action-bot@github.com
-          AUTHOR_NAME: Alexandre Flion
-          AUTHOR_EMAIL: huntears@kreog.com
