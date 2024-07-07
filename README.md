@@ -14,12 +14,12 @@ img {
 │
 ├─▣ Free software enthusiast
 ├─▣ 5th year Epitech Toulouse student
-├─▣ <a href="https://huntears.com/">huntears's den</a>
+├─▣ <a href="https://emneo.dev/">emneo's den</a>
 │
 └───────────────────────────────▰▰▰
 ┌──┤ SOCIAL ├─────────▰▰▰
 │
-├─◈ <a href="https://fosstodon.org/@huntears">Mastodon</a>
+├─◈ <a href="https://fosstodon.org/@emneo">Mastodon</a>
 ├─◈ <a href="https://t.me/huntears">Telegram</a>
 ├─◈ <a href="https://www.linkedin.com/in/alexandre-flion">LinkedIn</a>
 │
