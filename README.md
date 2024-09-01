@@ -18,7 +18,7 @@ emneo
 └───────────────────────────────▰▰▰
 ┌──┤ PROJECTS ├───────▰▰▰
 │
-├─◈ <a href="https://github.com/Epitech/B-AIA-500_liskvork">liskvork</a>
+├─◈ <a href="https://github.com/kankerdev/liskvork">liskvork</a>
 ├─◈ <a href="https://github.com/Miou-zora/Zaytracer">Zaytracer</a>
 │
 └───────────────────────────────▰▰▰
