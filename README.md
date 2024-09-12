@@ -7,6 +7,7 @@ emneo
 ├─▣ Free software enthusiast
 ├─▣ 5th year Epitech Toulouse student
 ├─▣ <a href="https://emneo.dev/">emneo's den</a>
+├─▣ <a href="https://github.com/emneo-archive/">emneo's archive</a>
 │
 └───────────────────────────────▰▰▰
 ┌──┤ SOCIAL ├─────────▰▰▰
