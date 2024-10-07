@@ -5,7 +5,7 @@ emneo
 ┌──┤ WHOAMI ├─────────▰▰▰
 │
 ├─▣ Free software enthusiast
-├─▣ 5th year Epitech Toulouse student
+├─▣ Epitech Toulouse pedago
 ├─▣ <a href="https://emneo.dev/">emneo's den</a>
 ├─▣ <a href="https://github.com/emneo-archive/">emneo's archive</a>
 │
