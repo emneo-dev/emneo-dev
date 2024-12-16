@@ -13,7 +13,7 @@ emneo
 ┌──┤ SOCIAL ├─────────▰▰▰
 │
 ├─◈ <a href="https://fosstodon.org/@emneo">Mastodon</a>
-├─◈ <a href="https://t.me/huntears">Telegram</a>
+├─◈ <a href="https://t.me/emneo_dev">Telegram</a>
 ├─◈ <a href="https://www.linkedin.com/in/emily-flion">LinkedIn</a>
 │
 └───────────────────────────────▰▰▰
