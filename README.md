@@ -14,7 +14,7 @@ emneo
 │
 ├─◈ <a href="https://fosstodon.org/@emneo">Mastodon</a>
 ├─◈ <a href="https://t.me/huntears">Telegram</a>
-├─◈ <a href="https://www.linkedin.com/in/alexandre-flion">LinkedIn</a>
+├─◈ <a href="https://www.linkedin.com/in/emily-flion">LinkedIn</a>
 │
 └───────────────────────────────▰▰▰
 ┌──┤ PROJECTS ├───────▰▰▰
